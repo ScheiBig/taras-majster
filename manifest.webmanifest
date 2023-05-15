@@ -23,10 +23,10 @@
         }
     ],
     "id": "scheibig.taras_majster",
-    "start_url": "/",
+    "start_url": "https://scheibig.github.io/taras-majster/",
     "background_color": "#ffffff",
     "display": "standalone",
     "display_override": [ "minimal-ui" ],
-    "scope": "/",
+    "scope": "https://scheibig.github.io/taras-majster/",
     "theme_color": "#33691e"
 }
