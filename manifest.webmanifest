@@ -1,0 +1,32 @@
+{
+    "short_name": "Kąty krokiew [kalkulator]",
+    "name": "Kąty krokiew [kalkulator]",
+    "lang": "pl-pl",
+    "icons": [
+        {
+            "src": "i_96.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "i_192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "i_512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "id": "scheibig.taras_majster",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "display_override": [ "minimal-ui" ],
+    "scope": "/",
+    "theme_color": "#33691e"
+}
